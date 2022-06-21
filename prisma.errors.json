@@ -1,0 +1,5 @@
+{
+    "P2002": "Un utilisateur existe déja avec cette adresse email",
+    "P2006": "La valeur de la donnée à un format inaproprié",
+    "clientVersion": "Role Enum items not match given value"
+}
